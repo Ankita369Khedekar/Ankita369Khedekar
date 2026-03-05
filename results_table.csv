@@ -1,0 +1,2 @@
+Model,Dataset,Samples,Accuracy,Error_rate_proxy
+BLIP-VQA,VQA-v2 (val2014 subset),20,0.833,0.167
