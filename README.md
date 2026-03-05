@@ -1,5 +1,22 @@
-# Intro
-👋 Hi, I'm Ankita!
-I am passionate about AI-driven innovation and software development, specializing in Natural Language Processing (NLP), Machine Learning, and .NET Development. My expertise spans across Automation and Predictive Analytics, where I aim to build intelligent systems that enhance business efficiency and user experience.
+# Evaluating Reliability in Multimodal Large Language Models
 
-I hold a Master’s in Natural Language Processing (Data Science) and a Bachelor’s in Computer Engineering. With several years of experience in software engineering, I have successfully developed AI-powered applications that solve real-world challenges through cutting-edge technology.
+This repository contains the reproducible implementation for the term paper:
+
+**A Reproducible VQA-Based Experimental Study**
+
+## 🔬 Experiment
+- Model: Salesforce/blip-vqa-base
+- Dataset: VQA-v2 validation subset (N=20)
+- Environment: Google Colab
+- Metrics: Official VQA Accuracy, Hallucination Rate
+
+## ▶️ Run in Colab
+Open notebook:
+[Google Colab Link] https://colab.research.google.com/drive/1_1YmSlrGKKA9cpKuCYs-AA4qPp-CQIK9)
+
+## 📊 Results
+| Metric | Value |
+|--------|------|
+| Accuracy | 0.833 |
+| Error Rate | 0.167 |
+| Hallucination Rate | 0.5 |
