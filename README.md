@@ -12,7 +12,7 @@ This repository contains the reproducible implementation for the term paper:
 
 ## ▶️ Run in Colab
 Open notebook:
-[Google Colab Link] https://colab.research.google.com/drive/1_1YmSlrGKKA9cpKuCYs-AA4qPp-CQIK9)
+[Google Colab Link] https://colab.research.google.com/drive/1_1YmSlrGKKA9cpKuCYs-AA4qPp-CQIK9
 
 ## 📊 Results
 | Metric | Value |
