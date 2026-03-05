@@ -1,0 +1,21 @@
+question,prediction,ground_truth_examples,is_hallucinated (0/1)
+Is it daytime?,no,no|no|no|no|no,0
+Is there another bus behind this one?,no,no|no|no|no|no,0
+Is the light on?,no,yes|yes|no|yes|yes,1
+Is this a zoo?,yes,no|yes|yes|yes|yes,0
+What holiday is the dog's hat for?,christmas,christmas|christmas|christmas|christmas|christmas,0
+How many shrubs are in the yard?,1,0|0|0|0|1,1
+What color is her dress?,black,gray|brown|gray|blue|not dress,1
+What color jacket is the person on the left wearing?,blue,yellow|green|green|blue|green,1
+What color shoes is the girl wearing?,red,red|red and yellow|black|red and yellow|red,1
+Is the skier going up or down the hill?,up,up|up|up|up|up,0
+How many kites have legs?,4,3|3|3|3|3,1
+"Do pedestrians have the right of way crossing the street, at the time of the photo?",yes,yes|yes|yes|yes|yes,0
+What color is the seahorse?,orange and yellow,yellow and orange|yellow and orange|orange and yellow|gray|orange,1
+What is stuck in the cake?,flag,american flag|flag|flags|toothpick flag|flag,1
+Is the zebra grazing?,no,yes|no|no|no|no,0
+What color is the disk?,green,green|green and red|green|green/black/red|green,0
+Is the bear wearing shoes?,no,no|no|no|no|no,0
+What is the man making?,ties,ties|nothing|ties|tie|ties,0
+What does the yellow sign say?,pedestrian crossing,can't tell|ped xing|ped xing|ped xing|ped xing,1
+What color are the stripes?,white,white|white|white|white|white,0
