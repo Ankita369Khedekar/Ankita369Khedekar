@@ -11,9 +11,14 @@ This repository contains the reproducible implementation for the term paper:
 - Metrics: Official VQA Accuracy, Hallucination Rate
 
 ## ▶️ Run in Colab
-Open notebook:
-[Google Colab Link] https://colab.research.google.com/drive/1_1YmSlrGKKA9cpKuCYs-AA4qPp-CQIK9
+Google Colab Experiment Notebook:
+https://colab.research.google.com/drive/1_1YmSlrGKKA9cpKuCYs-AA4qPp-CQIK9
 
+GitHub Repository:
+https://github.com/Ankita369Khedekar/Ankita369Khedekar
+
+Dataset and Experiment Outputs (Google Drive):
+https://drive.google.com/drive/folders/116sN11ynNIb5I3-W3wo6YZtt6d4Mublp
 ## 📊 Results
 | Metric | Value |
 |--------|------|
