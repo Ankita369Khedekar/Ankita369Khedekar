@@ -24,4 +24,4 @@ https://drive.google.com/drive/folders/116sN11ynNIb5I3-W3wo6YZtt6d4Mublp
 |--------|------|
 | Accuracy | 0.833 |
 | Error Rate | 0.167 |
-| Hallucination Rate | 0.5 |
+| Hallucination Rate | 0.45 |
